@@ -1,0 +1,9 @@
+FrmMain = 154, 474, 537, 812, C, 54, 34, 910, 758, C
+modMain = 57, 69, 442, 407, C
+modFs = 22, 29, 407, 367, C
+FrmPesan = 24, 43, 409, 381, C, 0, 0, 456, 446, C
+Option = 12, 87, 397, 425, C
+modFirewall = 0, 0, 385, 338, C
+modProc = 62, 49, 447, 387, C
+modProcPort = 66, 87, 451, 425, C
+ModLang = 22, 29, 735, 573, C
